@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning HTML, CSS, JS, Angular & Java
 - 📫 How to reach me: andreibisso@gmail.com
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/andreibissolotti/)
+
 <div align="center">
   <a href="https://github.com/andraibissolotti">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreibissolotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
